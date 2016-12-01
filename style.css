@@ -1,0 +1,73 @@
+body
+{
+	
+	background-color: black;
+	font-family: Georgia;
+}
+
+a
+{
+	
+	color:black;
+	
+}
+
+a:hover
+{
+	
+	color:white;
+	
+}
+
+.centering
+{
+	
+	padding-left:35px;
+	
+}
+
+.navbar
+{
+	
+	background-color:#ff3300;
+	
+}
+
+.navbar-header
+{
+	
+	color: black;
+	text-align:center;
+	
+}
+
+.jumbotron
+{
+	
+	color:white;
+	background-attachment:fixed;
+	padding-bottom:100px;
+	margin-bottom:0px;
+	background-color:black;
+	
+}
+
+h2
+{
+	
+	font-size:2.5em;
+	
+}
+
+.welcome
+{
+	
+	padding-left:50px;
+	
+}
+
+.agent
+{
+	float:right;
+	padding:200px;
+}
