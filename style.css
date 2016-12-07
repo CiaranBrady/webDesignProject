@@ -1,8 +1,10 @@
+
 body
 {
 	
 	background-color: black;
 	font-family: Georgia;
+	
 }
 
 a
@@ -12,62 +14,110 @@ a
 	
 }
 
-a:hover
-{
-	
-	color:white;
-	
-}
-
-.centering
-{
-	
-	padding-left:35px;
-	
-}
-
-.navbar
-{
-	
-	background-color:#ff3300;
-	
-}
-
-.navbar-header
-{
-	
-	color: black;
-	text-align:center;
-	
-}
-
 .jumbotron
 {
-	
-	color:white;
-	background-attachment:fixed;
-	padding-bottom:100px;
-	margin-bottom:0px;
+
+	color:#cccccc;
 	background-color:black;
 	
 }
 
-h2
+#parallaxHome
 {
-	
-	font-size:2.5em;
+	background-image: url("division.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
 	
 }
 
-.welcome
+#parallaxCity1
 {
-	
-	padding-left:50px;
+	background-image: url("nyc.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
 	
 }
 
-.agent
+#parallaxCity2
 {
-	float:right;
-	padding:200px;
+	
+	background-image: url("grave.png");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
+	
 }
+
+#parallaxDZ1
+{
+	
+	background-image: url("dz.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
+	
+}
+
+#parallaxDZ2
+{
+	
+	background-image: url("thedz.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
+	
+}
+
+#parallaxUnder
+{
+	
+	background-image: url("under.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
+	
+}
+
+#parallaxUnder2
+{
+	
+	background-image: url("under2.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height: 700px;
+	
+}
+
+
+#textalign
+{
+	
+	padding:50px;
+	padding-bottom:450px;
+	
+}
+
+img{
+	
+	max-width:100%;
+	height:auto;
+	
+}
+
+
