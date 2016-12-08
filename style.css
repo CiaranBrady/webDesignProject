@@ -14,11 +14,20 @@ a
 	
 }
 
+
 .jumbotron
 {
 
 	color:#cccccc;
 	background-color:black;
+	
+}
+
+#artHeader
+{
+	
+	text-align:center;
+	float:center;
 	
 }
 
