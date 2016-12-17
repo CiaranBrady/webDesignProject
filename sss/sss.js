@@ -5,12 +5,12 @@
 $.fn.sss = function(options) {
 
 // Options
-
+// altered speeds and transition - ciaran
 	var settings = $.extend({
 	slideShow : true,
-	startOn : 0,
-	speed : 3500,
-	transition : 400,
+	startOn : 3,
+	speed : 2500,
+	transition : 300,
 	arrows : true
 	}, options);
 
